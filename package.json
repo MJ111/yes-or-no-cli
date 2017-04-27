@@ -1,0 +1,17 @@
+{
+  "name": "yes-or-no-with-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yes-or-no"
+  ],
+  "author": "minjeong kim",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
