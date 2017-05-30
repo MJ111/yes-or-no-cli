@@ -2,10 +2,11 @@
 
 ***DEMO***
 
-[![DEMO](https://raw.githubusercontent.com/MJ111/yes-or-no-cli/master/demo.gif)][yes-or-no]
+[![](https://raw.githubusercontent.com/MJ111/yes-or-no-cli/master/demo.gif)][yes-or-no]
 
 ## Installation
 ```
+$ git clone https://github.com/MJ111/yes-or-no-cli
 $ npm install
 ```
 
