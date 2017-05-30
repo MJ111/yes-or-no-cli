@@ -2,7 +2,7 @@
 
 ***DEMO***
 
-[![](https://raw.githubusercontent.com/MJ111/yes-or-no-cli/master/demo.gif)][yes-or-no]
+![DEMO](https://raw.githubusercontent.com/MJ111/yes-or-no-cli/master/demo.gif)
 
 ## Installation
 ```
