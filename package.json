@@ -12,6 +12,7 @@
   "author": "minjeong kim",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^1.1.3"
+    "chalk": "^1.1.3",
+    "draftlog": "^1.0.12"
   }
 }
